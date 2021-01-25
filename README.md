@@ -19,9 +19,12 @@ We built a Chinese poem learning system including three functions.
 - ![image](https://github.com/zhiyuan0112/Learning_Poems_System/blob/master/images/poemTranslation.png)
 
 # Interface Presentation
-We present the interface of our system.
+- We show the interface of our system.
 
 ![image](https://github.com/zhiyuan0112/Learning_Poems_System/blob/master/images/system.png)
 
 # Usage
-- run *python MainWindow.py*
+- run
+```markdown
+python MainWindow.py
+```
